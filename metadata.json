@@ -1,0 +1,6 @@
+{
+  "name": "Decision Analyzer",
+  "description": "Logistics fleet trip optimizer to distribute volumes between owned and hired carriers based on cost and SLA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
